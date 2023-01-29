@@ -5,9 +5,9 @@
         />
 
 
-<a href="https://bio.link/timifres"><img align='centre' src='https://c.tenor.com/SpDpac3s-ccAAAAC/anime-boy.gif' width='200"'> </a>
+<a href="https://bio.link/timifres"><img align='centre' src='20230122_113239.jpg' width='700"'> </a>
 
-<img src=2023.png" width="500" />
+
 <br/>
 <h5> My about:
 -  I’m a student Now.
