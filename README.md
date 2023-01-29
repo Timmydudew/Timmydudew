@@ -7,7 +7,7 @@
 
 <a href="https://bio.link/timifres"><img align='centre' src='https://c.tenor.com/SpDpac3s-ccAAAAC/anime-boy.gif' width='200"'> </a>
 
-<img src="./img/AboutMe-elaina.png" width="500" />
+<img src=2023.png" width="500" />
 <br/>
 <h5> My about:
 -  I’m a student Now.
