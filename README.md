@@ -20,7 +20,13 @@
 <br>
 
 # 📫 How to reach me:
-[![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=blue)](https://wa.me/2348050261876)
+[![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=blue)](https://wa.me/2348050261876?text=Hi%20I%20Am%20From%20GitHub%20☺️ )
+<br>
+<br>
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrjuice01&layout=compact)](https://github.com/mrjuice01/github-readme-stats)<br>
+![My Profile Views](https://gpvc.arturio.dev/mrjuice01)
 <br>
 <br>
 <br>
