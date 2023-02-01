@@ -34,7 +34,7 @@
 <br>
 
 # 📫 How to reach me:
-[![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=blue)](https://wa.me/2348050261876?text=Hi%20I%20Am%20From%20GitHub%20☺️ )
+[![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=blue)](https://wa.me/2348050261876?text=Hi%20I%20Am%20From%20GitHub%20i%20follow%20you%20😉😎😊)
 <br>
 <br>
 <br>
