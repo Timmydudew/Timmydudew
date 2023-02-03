@@ -68,6 +68,7 @@
 <br>
 
 
+
 <div align="center">
     <img
         src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Thanks+for+your+visit;+Bye+Have+a+good+Day;+please+follow+me;"
@@ -77,7 +78,7 @@
 #### if u want me to collaborate with you in creating an awesome tool or bot feel free to contact me I am happy to respond 
 
 
-
+<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
 
 
 Don't forget to follow 
